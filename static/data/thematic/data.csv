@@ -1,42 +1,63 @@
 country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
-Albania,AL,1,TRUE,Candidate country since 2003,,,,,,,,
-Austria,AT,0,FALSE,,,,,,,,,
-Belgium,BE,0,FALSE,,,,,,,,,
-Bulgaria,BG,0,FALSE,,,,,,,,,
-Bosnia and Herzegovina,BA,1,TRUE,,,,,,,,,
-Switzerland,CH,0,FALSE,,,,,,,,,
-Cyprus,CY,0,FALSE,,,,,,,,,
-Czechia,CZ,0,FALSE,,,,,,,,,
-Germany,DE,null,FALSE,,,,,,,,,
-Denmark,DK,0,FALSE,,,,,,,,,
-Estonia,EE,0,FALSE,,,,,,,,,
-Georgia,GE,1,FALSE,,,,,,,,,
-Greece,EL,0,FALSE,,,,,,,,,
-Spain,ES,0,FALSE,,,,,,,,,
-Finland,FI,0,FALSE,,,,,,,,,
-France,FR,0,FALSE,,,,,,,,,
-Croatia,HR,0,FALSE,,,,,,,,,
-Hungary,HU,0,FALSE,,,,,,,,,
-Ireland,IE,0,FALSE,,,,,,,,,
-Iceland,IS,0,FALSE,,,,,,,,,
-Italy,IT,0,FALSE,,,,,,,,,
-Liechtenstein,LI,0,FALSE,,,,,,,,,
-Lithuania,LT,0,FALSE,,,,,,,,,
-Luxembourg,LU,0,FALSE,,,,,,,,,
-Latvia,LV,0,FALSE,,,,,,,,,
-Montenegro,ME,1,TRUE,Candidate country since 2010,,,,,,,,
-North Macedonia,MK,1,TRUE,Candidate country since 2005,,,,,,,,
-Malta,MT,0,FALSE,,,,,,,,,
-Moldova,MD,1,FALSE,,,,,,,,,
-Netherlands,NL,0,FALSE,,,,,,,,,
-Norway,NO,0,FALSE,,,,,,,,,
-Poland,PL,0,FALSE,,,,,,,,,
-Portugal,PT,0,FALSE,,,,,,,,,
-Romania,RO,0,FALSE,,,,,,,,,
-Serbia,RS,1,TRUE,Candidate country since 2003,,,,,,,,
-Sweden,SE,0,FALSE,,,,,,,,,
-Slovenia,SI,0,FALSE,,,,,,,,,
-Slovakia,SK,0,FALSE,,,,,,,,,
-Turkey,TR,1,FALSE,,,,,,,,,
-United Kingdom,UK,null,FALSE,,,,,,,,,
-Ukraine,UA,1,TRUE,Candidate country since 2003,,,,,,,,
+Albania,AL,null,Falsch,,,,,,,,,
+Austria,AT,0.032,Falsch,1 additional MEPs in comparison to 2019 - 2024 term,,,,,,,,
+Belgium,BE,0.0344,Falsch,2 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Bulgaria,BG,0.0077,Falsch,no data provided,,,,,,,,
+Bosnia and Herzegovina,BA,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Switzerland,CH,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Cyprus,CY,0.0077,Falsch,no data provided,,,,,,,,
+Czechia,CZ,0.0196,Falsch,"Medium Score = 54%
+Low Score = 21%",,,,,,,,
+Germany,DE,0.0313,Falsch,"Medium Score = 46%
+Low Score = 22%",,,,,,,,
+Denmark,DK,0.0276,Falsch,"Medium Score = 45%
+Low Score = 15%",,,,,,,,
+Estonia,EE,0.0178,Falsch,"Medium Score = 47%
+Low Score = 13%",,,,,,,,
+Georgia,GE,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Greece,EL,0.0148,Falsch,"Medium Score = 52%
+Low Score = 29%",,,,,,,,
+Spain,ES,0.0144,Falsch,2 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Finland,FI,0.0295,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+France,FR,0.0218,Falsch,2 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Croatia,HR,0.0143,Falsch,no data provided,,,,,,,,
+Hungary,HU,0.0139,Falsch,"Medium Score = 61%
+Low Score = 17%",,,,,,,,
+Ireland,IE,0.0096,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Iceland,IS,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Italy,IT,0.0133,Falsch,"Medium Score = 49%
+Low Score = 26%",,,,,,,,
+Liechtenstein,LI,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Lithuania,LT,0.0102,Falsch,"Medium Score = 54%
+Low Score = 25%",,,,,,,,
+Luxembourg,LU,0.0098,Falsch,"Medium Score = 43%
+Low Score = 24%",,,,,,,,
+Latvia,LV,0.0075,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Montenegro,ME,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+North Macedonia,MK,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Malta,MT,0.0065,Falsch,no data provided,,,,,,,,
+Moldova,MD,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Netherlands,NL,0.023,Falsch,2 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Norway,NO,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Poland,PL,0.0146,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Portugal,PT,0.0171,Falsch,"Medium Score = 56%
+Low Score = 28%",,,,,,,,
+Romania,RO,0.0046,Falsch,no data provided,,,,,,,,
+Serbia,RS,null,Falsch,"Medium Score = 50%
+Low Score = 28%",,,,,,,,
+Sweden,SE,0.034,Falsch,"Medium Score = 47%
+Low Score = 19%",,,,,,,,
+Slovenia,SI,0.0211,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Slovakia,SK,0.0098,Falsch,1 additional MEPs  in comparison to 2019 - 2024 term,,,,,,,,
+Turkey,TR,null,Falsch,,,,,,,,,
+United Kingdom,UK,null,Falsch,,,,,,,,,
+Ukraine,UA,null,Falsch,,,,,,,,,
